@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Categories=GNOME;
+Icon=firefox
+Name=BrowserSearch
+Comment=GNOME Shell search provider for your browser
+Terminal=false
+Type=Application
+NoDisplay=true;

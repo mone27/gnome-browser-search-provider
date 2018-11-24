@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.gnome.Browser.SearchProvider
+Exec=/usr/lib/browser_search_provider/browser_search_provider.py
+SystemdService=org.gnome.Browser.SearchProvider.service

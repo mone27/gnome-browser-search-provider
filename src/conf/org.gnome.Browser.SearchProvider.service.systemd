@@ -1,0 +1,7 @@
+[Unit]
+Description=Browser search provider for GNOME Shell daemon
+
+[Service]
+Type=dbus
+BusName=org.gnome.Browser.SearchProvider
+ExecStart=/usr/lib/browser_search_provider/browser_search_provider.py
