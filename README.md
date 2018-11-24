@@ -3,6 +3,7 @@
 ##to do:
 - improve this readme
 - do not require root install
+- add customization and support for other browser/search engine beside firefox/duckduckgo
 
 ## install
 
