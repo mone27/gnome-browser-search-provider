@@ -1,6 +1,7 @@
-#Browser Search Provider for Gnome Shell
+# Browser Search Provider for Gnome Shell
+Warning this project is still work in progress and currently half broken
 
-##to do:
+## to do:
 - improve this readme
 - do not require root install
 - add customization and support for other browser/search engine beside firefox/duckduckgo
@@ -9,6 +10,6 @@
 
 `sudo ./install.sh`
 
-##acknowledgements
+## acknowledgements
 this project was based on gnome-shell-pass-provider (https://github.com/jle64/gnome-pass-search-provider)
 
